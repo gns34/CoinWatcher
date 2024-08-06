@@ -10,4 +10,8 @@ public class HomeController {
     public String home(){
         return "Hello World!";
     }
+    @GetMapping("/api")
+    public String secure(){
+        return "Hello World! Secure";
+    }
 }
