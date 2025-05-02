@@ -1,6 +1,4 @@
 https://coinwatcher3.netlify.app/
-Thought for a couple of seconds
-
 
 
 # 💰 CoinWatcher
@@ -67,7 +65,7 @@ coinwatcher/
 ## 🧪 Installation
 
 1. **Clone the repo**  
-   ```bash
+
    git clone https://github.com/yourusername/coinwatcher.git
    cd coinwatcher
 
@@ -81,9 +79,8 @@ coinwatcher/
 
    * Edit `src/main/resources/application.properties` to include your API base URL if needed:
 
-     ```properties
+
      coingecko.api.base-url=https://api.coingecko.com/api/v3
-     ```
 
 3. **Frontend Setup**
 
